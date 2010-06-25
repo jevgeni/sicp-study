@@ -1,8 +1,8 @@
 #+BEGIN: columnview :hlines 1 :maxlevel 2 :id global
 | Task                                                                | Effort | CLOCKSUM |
 |---------------------------------------------------------------------+--------+----------|
-| * SICP Study project                                                | 800:00 |     1:19 |
-| ** STARTED Project preparation / introduction / github / etc :NEXT: |        |     1:19 |
+| * SICP Study project                                                | 800:00 |          |
+| ** STARTED Project preparation / introduction / github / etc :NEXT: |        |          |
 | ** TODO Chapter 1                                                   |        |          |
 #+END:
 
