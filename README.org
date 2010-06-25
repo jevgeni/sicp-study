@@ -1,0 +1,10 @@
+
+* SICP Study project
+  :PROPERTIES:
+  :Effort:   800:00
+  :END:
+** STARTED Project preparation / introduction / github / etc	       :NEXT:
+   :LOGBOOK:
+   CLOCK: [2010-06-25 R 21:00]--[2010-06-25 R 22:19] =>  1:19
+   :END:
+** TODO Chapter 1
