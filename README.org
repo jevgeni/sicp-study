@@ -1,3 +1,12 @@
+#+BEGIN: columnview :hlines 1 :maxlevel 2 :id global
+| Task                                                                | Effort | CLOCKSUM |
+|---------------------------------------------------------------------+--------+----------|
+| * SICP Study project                                                | 800:00 |     1:19 |
+| ** STARTED Project preparation / introduction / github / etc :NEXT: |        |     1:19 |
+| ** TODO Chapter 1                                                   |        |          |
+#+END:
+
+
 
 * SICP Study project
   :PROPERTIES:
@@ -5,6 +14,7 @@
   :END:
 ** STARTED Project preparation / introduction / github / etc	       :NEXT:
    :LOGBOOK:
-   CLOCK: [2010-06-25 R 21:00]--[2010-06-25 R 22:19] =>  1:19
+   CLOCK: [2010-06-25 R 21:00]
    :END:
 ** TODO Chapter 1
+
