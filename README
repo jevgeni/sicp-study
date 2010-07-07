@@ -19,4 +19,16 @@
    CLOCK: [2010-06-25 R 21:00]--[2010-06-25 R 22:56] =>  1:56
    :END:
 ** TODO Chapter 1
-
+*** TODO Chapter 1.1 (elements of programming)
+*** STARTED Chapter 1.1 exercises				       :NEXT:
+    :LOGBOOK:
+    CLOCK: [2010-07-07 K 21:10]--[2010-07-07 K 22:58] =>  1:48
+    :END:
+*** STARTED Investigate RackUnit or other ways to do TDD	       :NEXT:
+    :LOGBOOK:
+    CLOCK: [2010-07-07 K 22:58]
+    :END:
+*** TODO Chapter 1.2 (procedures and the processes they generate) 
+*** TODO Chapter 1.2 exercises
+*** TODO Chapter 1.3 (formulating abstractions with higher order procedures)
+*** TODO Chapter 1.3 exercises
