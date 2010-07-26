@@ -1,9 +1,10 @@
 #+BEGIN: columnview :hlines 1 :maxlevel 2 :id global
 | Task                                                      | Effort | CLOCKSUM |
 |-----------------------------------------------------------+--------+----------|
-| * SICP Study project                                      | 800:00 |     6:45 |
+| * SICP Study project                                      | 800:00 |    17:50 |
 | ** DONE Project preparation / introduction / github / etc |        |     1:56 |
-| ** TODO Chapter 1                                         |        |     4:49 |
+| ** STARTED Chapter 1                                      |        |     5:49 |
+| ** SICP Sessions                                          |        |    10:05 |
 #+END:
 
 
@@ -14,28 +15,46 @@
   :END:
 ** DONE Project preparation / introduction / github / etc
    CLOSED: [2010-06-25 R 22:56]
-   - State "DONE"       from "STARTED"    [2010-06-25 R 22:56]
    :LOGBOOK:
    CLOCK: [2010-06-25 R 21:00]--[2010-06-25 R 22:56] =>  1:56
    :END:
-** TODO Chapter 1
-*** STARTED Chapter 1.1 (elements of programming)		       :NEXT:
+** STARTED Chapter 1
+*** DONE Chapter 1.1 (elements of programming)
+    CLOSED: [2010-07-26 E 21:34]
     :LOGBOOK:
     CLOCK: [2010-06-30 K 22:30]--[2010-06-30 K 23:00] =>  0:30
     CLOCK: [2010-07-01 N 08:15]--[2010-07-01 N 08:50] =>  0:35
     CLOCK: [2010-07-01 N 19:45]--[2010-07-01 N 20:15] =>  0:30
     :END:
-*** STARTED Chapter 1.1 exercises				       :NEXT:
+*** DONE Chapter 1.1 exercises
+    CLOSED: [2010-07-26 E 21:34]
     :LOGBOOK:
     CLOCK: [2010-07-07 K 21:10]--[2010-07-07 K 22:58] =>  1:48
     :END:
 *** DONE Investigate RackUnit or other ways to do TDD
     CLOSED: [2010-07-08 N 00:24]
-    - State "DONE"       from "STARTED"    [2010-07-08 N 00:24]
     :LOGBOOK:
     CLOCK: [2010-07-07 K 22:58]--[2010-07-08 N 00:24] =>  1:26
     :END:
-*** TODO Chapter 1.2 (procedures and the processes they generate) 
-*** TODO Chapter 1.2 exercises
+*** DONE Chapter 1.2 (procedures and the processes they generate)
+    CLOSED: [2010-07-26 E 21:34]
+    :LOGBOOK:
+    CLOCK: [2010-07-23 R 20:00]--[2010-07-23 R 21:00] =>  1:00
+    :END:
+*** STARTED Chapter 1.2 exercises				       :NEXT:
 *** TODO Chapter 1.3 (formulating abstractions with higher order procedures)
 *** TODO Chapter 1.3 exercises
+** SICP Sessions
+*** DONE SICP session #1
+    :LOGBOOK:
+    CLOCK: [2010-07-16 R 20:00]--[2010-07-16 R 23:30] =>  3:30
+    :END:
+*** DONE SICP session #2
+    :LOGBOOK:
+    CLOCK: [2010-07-21 K 19:00]--[2010-07-21 K 23:00] =>  4:00
+    :END:
+*** DONE SICP session #3
+    :LOGBOOK:
+    CLOCK: [2010-07-26 E 19:00]--[2010-07-26 E 21:35] =>  2:35
+    :END:
+
