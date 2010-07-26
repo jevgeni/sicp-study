@@ -30,8 +30,17 @@
   (cond ((<= a b)      
         (if (even? a) 
             (search-for-primes (+ a 1) b)
-            (iter a b)))
-        (else 0)))
+            (iter a b)))))
 
 (define (prime? n)
   (= n (smallest-divisor n)))
+
+; (search-for-primes 1000 2000) --> 0 msec for all three
+; (search-for-primes 10000 11000) --> 0 msec for all three
+; (search-for-primes 100000 101000) --> 0 msec for all three
+; (search-for-primes 1000000 1001000) --> 0-1 msec for all three
+; (search-for-primes 1000000000 1000000100) -> 4-5 msec
+; (search-for-primes 10000000000 10000000100) -> ~90 msec
+; (search-for-primes 100000000000 100000000100) -> 322 msec
+; 322 / 90 ~ (sqrt 10)
+
