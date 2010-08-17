@@ -41,9 +41,18 @@
     :LOGBOOK:
     CLOCK: [2010-07-23 R 20:00]--[2010-07-23 R 21:00] =>  1:00
     :END:
-*** STARTED Chapter 1.2 exercises				       :NEXT:
-*** TODO Chapter 1.3 (formulating abstractions with higher order procedures)
-*** TODO Chapter 1.3 exercises
+*** DONE Chapter 1.2 exercises
+    CLOSED: [2010-08-17 Tue 22:18]
+*** STARTED Chapter 1.3 (formulating abstractions with higher order procedures) :NEXT:
+    :LOGBOOK:
+    CLOCK: [2010-08-17 Tue 22:51]
+    CLOCK: [2010-08-16 Mon 22:20]--[2010-08-16 Mon 23:20] =>  1:00
+    :END:
+*** STARTED Chapter 1.3 exercises				       :NEXT:
+    :LOGBOOK:
+    CLOCK: [2010-08-17 Tue 22:00]--[2010-08-17 Tue 22:51] =>  0:51
+    CLOCK: [2010-08-16 Mon 19:00]--[2010-08-16 Mon 22:00] =>  3:00
+    :END:
 ** SICP Sessions
 *** DONE SICP session #1
     :LOGBOOK:
