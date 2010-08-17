@@ -1,9 +1,9 @@
 #+BEGIN: columnview :hlines 1 :maxlevel 2 :id global
 | Task                                                      | Effort | CLOCKSUM |
 |-----------------------------------------------------------+--------+----------|
-| * SICP Study project                                      | 800:00 |    17:50 |
+| * SICP Study project                                      | 800:00 |    23:10 |
 | ** DONE Project preparation / introduction / github / etc |        |     1:56 |
-| ** STARTED Chapter 1                                      |        |     5:49 |
+| ** STARTED Chapter 1                                      |        |    11:09 |
 | ** SICP Sessions                                          |        |    10:05 |
 #+END:
 
@@ -45,7 +45,7 @@
     CLOSED: [2010-08-17 Tue 22:18]
 *** STARTED Chapter 1.3 (formulating abstractions with higher order procedures) :NEXT:
     :LOGBOOK:
-    CLOCK: [2010-08-17 Tue 22:51]
+    CLOCK: [2010-08-17 Tue 22:51]--[2010-08-17 Tue 23:20] =>  0:29
     CLOCK: [2010-08-16 Mon 22:20]--[2010-08-16 Mon 23:20] =>  1:00
     :END:
 *** STARTED Chapter 1.3 exercises				       :NEXT:
