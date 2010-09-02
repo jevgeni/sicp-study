@@ -1,11 +1,11 @@
 #+Begin: columnview :hlines 1 :maxlevel 2 :id global
 | Task                                                      | Effort | CLOCKSUM |
 |-----------------------------------------------------------+--------+----------|
-| * SICP Study project                                      | 800:00 |    29:42 |
+| * SICP Study project                                      | 800:00 |    38:07 |
 | ** DONE Project preparation / introduction / github / etc |        |     1:56 |
-| ** STARTED Chapter 1                                      |        |    17:41 |
-| ** TODO Chapter 2                                         |        |          |
-| ** SICP Sessions                                          |        |    10:05 |
+| ** DONE Chapter 1                                         |        |    17:41 |
+| ** STARTED Chapter 2 :NEXT:                               |        |     2:25 |
+| ** SICP Sessions                                          |        |    16:05 |
 #+END:
 
 
@@ -19,7 +19,9 @@
    :LOGBOOK:
    CLOCK: [2010-06-25 R 21:00]--[2010-06-25 R 22:56] =>  1:56
    :END:
-** STARTED Chapter 1
+** DONE Chapter 1
+   CLOSED: [2010-09-03 Fri 00:25]
+   - State "DONE"       from "STARTED"    [2010-09-03 Fri 00:25]
 *** DONE Chapter 1.1 (elements of programming)
     CLOSED: [2010-07-26 E 21:34]
     :LOGBOOK:
@@ -63,7 +65,11 @@
     CLOCK: [2010-08-17 Tue 22:00]--[2010-08-17 Tue 22:51] =>  0:51
     CLOCK: [2010-08-16 Mon 19:00]--[2010-08-16 Mon 22:00] =>  3:00
     :END:
-** TODO Chapter 2
+** STARTED Chapter 2						       :NEXT:
+*** STARTED Chapter 2.1 exercises				       :NEXT:
+    :LOGBOOK:
+    CLOCK: [2010-09-02 Thu 22:00]--[2010-09-03 Fri 00:25] =>  2:25
+    :END:
 ** SICP Sessions
 *** DONE SICP session #1
     :LOGBOOK:
@@ -76,5 +82,19 @@
 *** DONE SICP session #3
     :LOGBOOK:
     CLOCK: [2010-07-26 E 19:00]--[2010-07-26 E 21:35] =>  2:35
+    :END:
+
+*** DONE SICP session #4
+    CLOSED: [2010-09-03 Fri 00:24]
+    - State "DONE"       from "STARTED"    [2010-09-03 Fri 00:24]
+    :LOGBOOK:
+    CLOCK: [2010-08-22 Sun 19:00]--[2010-08-22 Sun 22:30] =>  3:30
+    :END:
+
+*** DONE SICP session #5
+    CLOSED: [2010-09-03 Fri 00:25]
+    - State "DONE"       from "STARTED"    [2010-09-03 Fri 00:25]
+    :LOGBOOK:
+    CLOCK: [2010-09-02 Thu 19:00]--[2010-09-02 Thu 21:30] =>  2:30
     :END:
 
