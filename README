@@ -1,10 +1,10 @@
 #+Begin: columnview :hlines 1 :maxlevel 2 :id global
 | Task                                                      | Effort | CLOCKSUM |
 |-----------------------------------------------------------+--------+----------|
-| * SICP Study project                                      | 800:00 |    46:19 |
+| * SICP Study project                                      | 800:00 |    48:19 |
 | ** DONE Project preparation / introduction / github / etc |        |     1:56 |
 | ** DONE Chapter 1                                         |        |    17:41 |
-| ** STARTED Chapter 2 :NEXT:                               |        |    10:37 |
+| ** STARTED Chapter 2 :NEXT:                               |        |    12:37 |
 | ** SICP Sessions                                          |        |    16:05 |
 #+END:
 
@@ -87,6 +87,7 @@
     :END:
 *** STARTED Chapter 2.2 exercises				       :NEXT:
     :LOGBOOK:
+    CLOCK: [2010-11-25 Thu 21:20]--[2010-11-25 Thu 23:20] =>  2:00
     CLOCK: [2010-10-29 Fri 22:00]--[2010-10-29 Fri 23:55] =>  1:55
     CLOCK: [2010-09-07 T 07:30]--[2010-09-07 T 08:00] =>  0:30
     CLOCK: [2010-09-06 Mon 23:00]--[2010-09-07 Tue 00:02] =>  1:02
