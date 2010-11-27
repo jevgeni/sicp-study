@@ -25,5 +25,35 @@
                 (cdr rest))))
     (iter initial sequence))
   
-  (provide accumulate accumulate-n fold-right fold-left))
+  (define (enumerate-interval low high)
+    (if (> low high)
+        null
+        (cons low (enumerate-interval (+ low 1) high))))
+  
+  (define (flatmap proc seq)
+    (accumulate append null (map proc seq)))
+  
+  ;; prime?
+  (define (smallest-divisor n)
+    (find-divisor n 2))
+  
+  (define (find-divisor n test-divisor)
+    (cond ((> (sqr test-divisor) n) n)
+          ((divides? test-divisor n) test-divisor)
+          (else (find-divisor n (+ test-divisor 1)))))
+  
+  (define (divides? a b)
+    (= (remainder b a) 0))
+  
+  (define (prime? n)
+    (= n (smallest-divisor n)))
+  ;; end of prime?
+  
+  (provide accumulate 
+           accumulate-n 
+           fold-right 
+           fold-left 
+           enumerate-interval
+           flatmap
+           prime?))
 
