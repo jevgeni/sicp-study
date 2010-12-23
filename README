@@ -1,10 +1,10 @@
 #+Begin: columnview :hlines 1 :maxlevel 2 :id global
 | Task                                                      | Effort | CLOCKSUM |
 |-----------------------------------------------------------+--------+----------|
-| * SICP Study project                                      | 800:00 |    51:31 |
+| * SICP Study project                                      | 800:00 |    53:03 |
 | ** DONE Project preparation / introduction / github / etc |        |     1:56 |
 | ** DONE Chapter 1                                         |        |    17:41 |
-| ** STARTED Chapter 2 :NEXT:                               |        |    15:49 |
+| ** STARTED Chapter 2 :NEXT:                               |        |    17:21 |
 | ** SICP Sessions                                          |        |    16:05 |
 #+END:
 
@@ -83,10 +83,12 @@
     :END:
 *** STARTED Chapter 2.2 (hierarchical data and closure property)       :NEXT:
     :LOGBOOK:
+    CLOCK: [2010-12-23 N 23:52]--[2010-12-24 R 00:19] =>  0:27
     CLOCK: [2010-09-05 Sun 21:00]--[2010-09-05 Sun 21:30] =>  0:30
     :END:
 *** STARTED Chapter 2.2 exercises				       :NEXT:
     :LOGBOOK:
+    CLOCK: [2010-12-23 N 22:47]--[2010-12-23 N 23:52] =>  1:05
     CLOCK: [2010-11-27 Sat 22:11]--[2010-11-28 Sun 00:48] =>  2:37
     CLOCK: [2010-11-27 Sat 21:36]--[2010-11-27 Sat 22:11] =>  0:35
     CLOCK: [2010-11-25 Thu 21:20]--[2010-11-25 Thu 23:20] =>  2:00
