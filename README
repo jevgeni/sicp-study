@@ -81,8 +81,12 @@
     CLOCK: [2010-09-03 R 07:15]--[2010-09-03 R 08:00] =>  0:45
     CLOCK: [2010-09-02 Thu 22:00]--[2010-09-03 Fri 00:25] =>  2:25
     :END:
-*** STARTED Chapter 2.2 (hierarchical data and closure property)       :NEXT:
+*** DONE Chapter 2.2 (hhierarchical data and closure property)
+    CLOSED: [2010-12-24 R 15:25]
+    - State "DONE"       from "STARTED"    [2010-12-24 R 15:25]
     :LOGBOOK:
+    CLOCK: [2010-12-24 R 15:12]--[2010-12-24 R 15:25] =>  0:13
+    CLOCK: [2010-12-24 R 13:27]--[2010-12-24 R 14:07] =>  0:40
     CLOCK: [2010-12-23 N 23:52]--[2010-12-24 R 00:19] =>  0:27
     CLOCK: [2010-09-05 Sun 21:00]--[2010-09-05 Sun 21:30] =>  0:30
     :END:
@@ -97,9 +101,18 @@
     CLOCK: [2010-09-06 Mon 23:00]--[2010-09-07 Tue 00:02] =>  1:02
     CLOCK: [2010-09-05 Sun 21:30]--[2010-09-05 Sun 23:00] =>  1:30
     :END:
-*** TODO Chapter 2.3 (symbolic data)
+*** DONE Chapter 2.3 (symbolic data)
+    CLOSED: [2010-12-25 L 00:17]
+    - State "DONE"       from "STARTED"    [2010-12-25 L 00:17]
+    :LOGBOOK:
+    CLOCK: [2010-12-24 R 23:00]--[2010-12-25 L 00:17] =>  1:17
+    CLOCK: [2010-12-24 R 15:25]--[2010-12-24 R 16:15] =>  0:50
+    :END:
 *** TODO Chapter 2.3 exercises
-*** TODO Chapter 2.4 (multiple representations for abstract data)
+*** STARTED Chapter 2.4 (multiple representations for abstract data)   :NEXT:
+    :LOGBOOK:
+    CLOCK: [2010-12-25 L 00:17]--[2010-12-25 L 00:25] =>  0:08
+    :END:
 *** TODO Chapter 2.4 exercises
 *** TODO Chapter 2.5 (systems with generic operations)
 *** TODO Chapter 2.5 exercises
