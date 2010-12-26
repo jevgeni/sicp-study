@@ -111,7 +111,10 @@
     CLOCK: [2010-12-24 R 23:00]--[2010-12-25 L 00:17] =>  1:17
     CLOCK: [2010-12-24 R 15:25]--[2010-12-24 R 16:15] =>  0:50
     :END:
-*** TODO Chapter 2.3 exercises
+*** STARTED Chapter 2.3 exercises				       :NEXT:
+    :LOGBOOK:
+    CLOCK: [2010-12-26 P 22:05]
+    :END:
 *** DONE Chapter 2.4 (multiple representations for abstract data)
     CLOSED: [2010-12-25 L 16:05]
     - State "DONE"       from "STARTED"    [2010-12-25 L 16:05]
