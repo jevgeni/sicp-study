@@ -1,10 +1,11 @@
 #+Begin: columnview :hlines 1 :maxlevel 2 :id global
 | Task                                                      | Effort | CLOCKSUM |
 |-----------------------------------------------------------+--------+----------|
-| * SICP Study project                                      | 800:00 |    76:21 |
+| * SICP Study project                                      | 800:00 |    78:38 |
 | ** DONE Project preparation / introduction / github / etc |        |     1:56 |
 | ** DONE Chapter 1                                         |        |    17:41 |
-| ** STARTED Chapter 2 :NEXT:                               |        |    37:16 |
+| ** DONE Chapter 2                                         |        |    39:33 |
+| ** STARTED Chapter 3                                      |        |          |
 | ** SICP Sessions                                          |        |    19:28 |
 #+END:
 
@@ -65,7 +66,9 @@
     CLOCK: [2010-08-17 Tue 22:00]--[2010-08-17 Tue 22:51] =>  0:51
     CLOCK: [2010-08-16 Mon 19:00]--[2010-08-16 Mon 22:00] =>  3:00
     :END:
-** STARTED Chapter 2						       :NEXT:
+** DONE Chapter 2
+   CLOSED: [2011-01-11 T 20:49]
+   - State "DONE"       from "STARTED"    [2011-01-11 T 20:49]
 *** DONE Chapter 2.1 (intro to data abstraction)
     CLOSED: [2010-09-03 R 16:12]
     - State "DONE"       from "STARTED"    [2010-09-03 R 16:12]
@@ -139,12 +142,21 @@
     CLOCK: [2010-12-25 L 14:45]--[2010-12-25 L 15:20] =>  0:35
     CLOCK: [2010-12-25 L 13:00]--[2010-12-25 L 14:00] =>  1:00
     :END:
-*** STARTED Chapter 2.5 exercises				       :NEXT:
+*** DONE Chapter 2.5 exercises
+    CLOSED: [2011-01-11 T 20:49]
+    - State "DONE"       from "STARTED"    [2011-01-11 T 20:49]
     :LOGBOOK:
+    CLOCK: [2011-01-11 T 18:32]--[2011-01-11 T 20:49] =>  2:17
     CLOCK: [2011-01-11 T 13:43]--[2011-01-11 T 16:55] =>  3:12
     CLOCK: [2011-01-10 E 21:11]--[2011-01-11 T 00:05] =>  2:54
     CLOCK: [2011-01-10 E 16:23]--[2011-01-10 E 17:02] =>  0:39
     :END:
+** STARTED Chapter 3
+*** TODO Chapter 3.1 Assignment and Local State
+*** TODO Chapter 3.2 The Environment Model of Evaluation
+*** TODO Chapter 3.3 Modeling with Mutable Data
+*** TODO Chapter 3.4 Concurrency: Time Is of the Essence
+*** TODO Chapter 3.5 Streams
 ** SICP Sessions
 *** DONE SICP session #1
     :LOGBOOK:
