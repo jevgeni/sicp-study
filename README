@@ -152,7 +152,10 @@
     CLOCK: [2011-01-10 E 16:23]--[2011-01-10 E 17:02] =>  0:39
     :END:
 ** STARTED Chapter 3
-*** TODO Chapter 3.1 Assignment and Local State
+*** STARTED Chapter 3.1 Assignment and Local State		       :NEXT:
+    :LOGBOOK:
+    CLOCK: [2011-01-24 E 22:10]--[2011-01-24 E 23:05] =>  0:55
+    :END:
 *** TODO Chapter 3.2 The Environment Model of Evaluation
 *** TODO Chapter 3.3 Modeling with Mutable Data
 *** TODO Chapter 3.4 Concurrency: Time Is of the Essence
