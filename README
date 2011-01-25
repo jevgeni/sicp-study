@@ -1,11 +1,11 @@
 #+Begin: columnview :hlines 1 :maxlevel 2 :id global
 | Task                                                      | Effort | CLOCKSUM |
 |-----------------------------------------------------------+--------+----------|
-| * SICP Study project                                      | 800:00 |    78:38 |
+| * SICP Study project                                      | 800:00 |    79:33 |
 | ** DONE Project preparation / introduction / github / etc |        |     1:56 |
 | ** DONE Chapter 1                                         |        |    17:41 |
 | ** DONE Chapter 2                                         |        |    39:33 |
-| ** STARTED Chapter 3                                      |        |          |
+| ** STARTED Chapter 3                                      |        |     0:55 |
 | ** SICP Sessions                                          |        |    19:28 |
 #+END:
 
@@ -154,6 +154,7 @@
 ** STARTED Chapter 3
 *** STARTED Chapter 3.1 Assignment and Local State		       :NEXT:
     :LOGBOOK:
+    CLOCK: [2011-01-25 T 22:32]
     CLOCK: [2011-01-24 E 22:10]--[2011-01-24 E 23:05] =>  0:55
     :END:
 *** TODO Chapter 3.2 The Environment Model of Evaluation
